@@ -43,30 +43,33 @@ Software tester trainee at Clarusway
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="float: left;">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="float: left;">
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" style="float: left;">
+  <img height="20" src="https://i.pinimg.com/474x/d8/05/7e/d8057e7bedecc1f23e36ef526d26a708.jpg" style="float: left;">
+  <img height="20" src="https://miro.medium.com/v2/resize:fit:710/1*KMYIE0A-u-DhaMm9N2ImlA.png" style="float: left;">
 </div>
 
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>-->
-
-<br></br>
-
-
-<a href="https://github.com/Maryahx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryahx&theme=nord&hide=glsl,python" />
-</a>
-
-<br></br>
-<img src="https://github-readme-stats.vercel.app/api?username=Maryahx&&show_icons=true&theme=nord&line_height=27&v=5" alt="Maryahx's GitHub Stats" />
+<br>
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/Maryahx">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryahx&theme=nord&hide=glsl,python" />
+  </a>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maryahx&&show_icons=true&theme=nord&line_height=27&v=5" alt="Maryahx's GitHub Stats" />
+</div>
 
 
 Cyber Security Projects 
-<a href="https://github.com/Maryahx/TryHackMe">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryahx&repo=TryHackMe&theme=nord" />
-<a href="https://github.com/Maryahx/Keylogger">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryahx&repo=Keylogger&theme=nord" />
-</a>    
+<br>
+<br>
+<div style="display: flex;">
+  <a href="https://github.com/Maryahx/TryHackMe">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryahx&repo=TryHackMe&theme=nord" />
+  </a>
+  
+  <a href="https://github.com/Maryahx/Keylogger">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryahx&repo=Keylogger&theme=nord" />
+  </a>
+</div>
 
 
 
