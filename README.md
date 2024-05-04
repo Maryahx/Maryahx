@@ -36,6 +36,8 @@ Software tester trainee at Clarusway
 - ISC2 CC ☑️
 - TryHackMe's Offensive Pentesting path 🚧 (26/27)
 
+<br>
+
 **Languages and Tools:**  
 
 <div style="display: flex;">
@@ -51,23 +53,24 @@ Software tester trainee at Clarusway
 <br>
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/Maryahx">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryahx&theme=nord&hide=glsl,python" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryahx&theme=nord&hide=glsl,python" height="200" />
   </a>
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maryahx&&show_icons=true&theme=nord&line_height=27&v=5" alt="Maryahx's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maryahx&&show_icons=true&theme=nord&line_height=27&v=5" alt="Maryahx's GitHub Stats" height="200" />
 </div>
 
+<br>
 
-Cyber Security Projects 
+**Cyber Security Projects** 
 <br>
-<br>
+
 <div style="display: flex;">
   <a href="https://github.com/Maryahx/TryHackMe">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryahx&repo=TryHackMe&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryahx&repo=TryHackMe&theme=nord" height="100" />
   </a>
   
   <a href="https://github.com/Maryahx/Keylogger">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryahx&repo=Keylogger&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryahx&repo=Keylogger&theme=nord" height="100"  />
   </a>
 </div>
 
