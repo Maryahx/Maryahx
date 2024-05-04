@@ -80,8 +80,6 @@ Software tester trainee at Clarusway
 </div>
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xMaryah.png" alt="TryHackMe">
-
 
 
 
