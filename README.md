@@ -1,8 +1,12 @@
- # <a href="https://www.linkedin.com/in/mariyah-alshimer/">Maryah </a> 
+ # <a href="https://www.linkedin.com/in/mariyah-alshimer/">Maryah </a> <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/0xMaryah.png?5" alt="TryHackMe">
+
+
  
  <a href="https://www.linkedin.com/in/mariyah-alshimer">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
+ 
  <!--<a href="">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> 
@@ -21,7 +25,6 @@
 -->
 
 <br/>
-<br/>
 Cyber Security and Digital Forensics 
 
 ## 👩🏻‍💻 About 
@@ -34,7 +37,7 @@ Software tester trainee at Clarusway
 
 ## 📜 Certifications
 - ISC2 CC ☑️
-- TryHackMe's Offensive Pentesting path 🚧 (26/27)
+- TryHackMe's Offensive Pentesting path ☑️ (with a strak of 133 🔥)
 
 <br>
 
@@ -57,6 +60,8 @@ Software tester trainee at Clarusway
   </a>
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maryahx&&show_icons=true&theme=nord&line_height=27&v=5" alt="Maryahx's GitHub Stats" height="200" />
+
+
 </div>
 
 <br>
@@ -73,6 +78,11 @@ Software tester trainee at Clarusway
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryahx&repo=Keylogger&theme=nord" height="100"  />
   </a>
 </div>
+
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xMaryah.png" alt="TryHackMe">
+
+
 
 
 
@@ -92,5 +102,6 @@ Software tester trainee at Clarusway
 
 <div align="center">
 </div>
+
 
 
