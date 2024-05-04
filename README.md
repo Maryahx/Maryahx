@@ -59,7 +59,11 @@ Software tester trainee at Clarusway
 
 
 Cyber Security Projects 
+<a href="https://github.com/Maryahx/TryHackMe">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryahx&repo=TryHackMe&theme=nord" />
 <a href="https://github.com/Maryahx/Keylogger">
+
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maryahx&repo=Keylogger&theme=nord" />
 </a>    
