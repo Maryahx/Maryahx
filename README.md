@@ -23,8 +23,6 @@
 </a>
 -->
 <br/>
-<br>
-Cyber Security and Digital Forensics 
 
 ## 👩🏻‍💻 About 
 A graduate with a major in Cyber Security and Digital Forensics.
