@@ -1,4 +1,4 @@
- # <a href="https://www.linkedin.com/in/mariyah-alshimer/">Maryah </a> <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/0xMaryah.png?5" alt="TryHackMe">
+ # <a href="https://www.linkedin.com/in/mariyah-alshimer/">Maryah </a> <a href="https://tryhackme.com/p/0xMaryah"> <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/0xMaryah.png?5" alt="TryHackMe"></a>
 
 
  
