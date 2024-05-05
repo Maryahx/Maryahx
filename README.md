@@ -1,7 +1,7 @@
- # <a href="https://www.linkedin.com/in/mariyah-alshimer/">Maryah </a> <a href="https://tryhackme.com/p/0xMaryah"> <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/0xMaryah.png?5" alt="TryHackMe"></a>
+ # <a href="https://www.linkedin.com/in/mariyah-alshimer/">Maryah </a> <a href="https://tryhackme.com/p/0xMaryah"></a> <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/0xMaryah.png?5" alt="TryHackMe"></a>
  <a href="https://www.linkedin.com/in/mariyah-alshimer">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a> <small>Cyber Security and Digital Forensics Graduate</small>
 
 
 
