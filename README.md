@@ -29,9 +29,9 @@ A graduate with a major in Cyber Security and Digital Forensics.
 Passionate about investigation and analysis, particularly in the field of cybercrime.
 Excited to showcase my passion for the field and demonstrate my skills and progress.
 
-## 🚀 I'm Currently...
+<--## 🚀 I'm Currently...
 Software tester trainee at Clarusway 
-
+-->
 ## 📜 Certifications
 - ISC2 CC ☑️
 - TryHackMe's Offensive Pentesting path ☑️ (with a strak of 133 🔥)
